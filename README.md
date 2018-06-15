@@ -6,6 +6,9 @@
   - Dependently Typed Heaps
     _([Haskell in Leipzig 2016](https://hal2016.haskell.org))_
     _([slides](Dependently_Typed_Heaps.pdf))_
+  - Automatic Differentiation in Haskell and Applications to Neural Networks
+    _([Regensburg Haskell Meetup 2016](https://www.meetup.com/de-DE/Regensburg-Haskell-Meetup/events/231568321))_
+    _([GitHub](https://github.com/brunjlar/meetup-august-2016))_
   - Neural Nets with Automatic Differentiation 
     _([Haskell eXchange 2016](https://skillsmatter.com/conferences/7276-haskell-exchange-2016))_
     _([slides](Haskell_eXchange_2016.pdf))_
