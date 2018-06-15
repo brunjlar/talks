@@ -9,3 +9,9 @@
   - Protop - Dependent Types through Topoi
     _([Haskell eXchange 2017](https://skillsmatter.com/conferences/8522-haskell-exchange-2017))_
     _([slides](protop.pdf))_
+  - Incentives in Cardano
+    _([Blockchain Mania](https://www.meetup.com/Bitcoins-And-Emerging-Tech-That-Changes-The-World/events/245531845))_
+    _([slides](Incentives_Hamburg.pdf))_
+  - Incentives in Cardano
+    _([Symphony Of Blockchains - London Kick off](https://www.meetup.com/Symphony-of-Blockchains-Visualisation-Meetup/events/250298357))_
+    _([slides](Incentives_London.pdf))_
