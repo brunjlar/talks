@@ -24,3 +24,6 @@
   - Incentives in Cardano
     _([Symphony Of Blockchains - London Kick off 2018](https://www.meetup.com/Symphony-of-Blockchains-Visualisation-Meetup/events/250298357))_
     _([slides](Incentives_London.pdf))_
+  - Cardano - The Secret of Success of one of the Leading Cryptocurrencies
+    _([Distribute 2018](http://www.distribute-conference.com))_
+    _([slides](Distribute_2018.pdf))_
