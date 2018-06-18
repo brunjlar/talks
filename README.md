@@ -15,6 +15,9 @@
   - Protop - Dependent Types through Topoi
     _([Haskell eXchange 2017](https://skillsmatter.com/conferences/8522-haskell-exchange-2017))_
     _([slides](protop.pdf))_
+  - From a Mathematical Paper to Efficient Code
+    _(Department of Computer Science of the University of Illinois at Urbana-Champaign)_
+    _([slides](ASE2017.pdf))_
   - Incentives in Cardano
     _([Blockchain Mania 2018](https://www.meetup.com/Bitcoins-And-Emerging-Tech-That-Changes-The-World/events/245531845))_
     _([slides](Incentives_Hamburg.pdf))_
