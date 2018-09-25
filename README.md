@@ -14,7 +14,7 @@
     _([slides](Haskell_eXchange_2016.pdf))_
   - Protop - Dependent Types through Topoi
     _([Haskell eXchange 2017](https://skillsmatter.com/conferences/8522-haskell-exchange-2017))_
-    _([slides](protop.pdf))_
+    _([slides](Haskell_eXchange_2017_Protop.pdf))_
   - From a Mathematical Paper to Efficient Code
     _(Department of Computer Science of the University of Illinois at Urbana-Champaign)_
     _([slides](ASE2017.pdf))_
@@ -27,3 +27,6 @@
   - Cardano - The Secret of Success of one of the Leading Cryptocurrencies
     _([Distribute 2018 Keynote](http://www.distribute-conference.com))_
     _([slides](Distribute_2018.pdf))_
+  - protop - topos programming
+    _([Regensburg Haskell Meetup 2018](https://www.meetup.com/de-DE/Regensburg-Haskell-Meetup/events/254249690/))_
+    _([slides](Regensburg_Haskell_Meetup_Protop.pdf))_
