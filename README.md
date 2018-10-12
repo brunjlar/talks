@@ -30,3 +30,6 @@
   - protop - topos programming
     _([Regensburg Haskell Meetup 2018](https://www.meetup.com/de-DE/Regensburg-Haskell-Meetup/events/254249690/))_
     _([slides](Regensburg_Haskell_Meetup_Protop.pdf))_
+  - Authenticated Data Structures, Generically, in Haskell
+    _([Haskell eXchange 2018](https://skillsmatter.com/app/conferences/10237-haskell-exchange-2018m))_
+    _([slides](Haskell_eXchange_2018.pdf))_
