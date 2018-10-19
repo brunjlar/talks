@@ -33,3 +33,6 @@
   - Authenticated Data Structures, Generically, in Haskell
     _([Haskell eXchange 2018](https://skillsmatter.com/app/conferences/10237-haskell-exchange-2018m))_
     _([slides](Haskell_eXchange_2018.pdf))_
+  - Cardano - The Secret of Success of one of the Leading Cryptocurrencies
+    _(BlockLab Meetup Rotterdam, October 19th, 2018)_
+    _([slides](BlockLab_2018_Rotterdam.pdf))_
