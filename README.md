@@ -36,3 +36,6 @@
   - Cardano - The Secret of Success of one of the Leading Cryptocurrencies
     _(BlockLab Meetup Rotterdam, October 19th, 2018)_
     _([slides](BlockLab_2018_Rotterdam.pdf))_
+  - Exploring Incentives in Cardano - Enabling Fair Decentralised Systems
+    _([Blockchain for Coders, Crypto Valley, Zug, November 8th, 2018](https://www.meetup.com/de-DE/Blockchain-for-Coders-Crypto-Valley/events/255976875/))_
+    _([slides](Blockchain_for_Coders_2018_Zug.pdf))_
