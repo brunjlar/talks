@@ -39,3 +39,12 @@
   - Exploring Incentives in Cardano - Enabling Fair Decentralised Systems
     _([Blockchain for Coders, Crypto Valley, Zug, November 8th, 2018](https://www.meetup.com/de-DE/Blockchain-for-Coders-Crypto-Valley/events/255976875/))_
     _([slides](Blockchain_for_Coders_2018_Zug.pdf))_
+  - Education Overview
+    _(IOHK Staff Summit, Miami Beach, April 15th, 2019)_
+    _([slides](Education_Overview_Miami.pdf))_
+  - IOHK Africa and Education - Teaching Haskell in Ethiopia
+    _([IOHK Summit, Miami Beach, April 17th, 2019](https://iohksummit.io/agenda/))_
+    _([slides](Haskell_Course_Ethiopia_Miami.pdf))_
+  - Cardano Incentives - Enabling a Fair Decentralized System
+    _([IOHK Summit, Miami Beach, April 18th, 2019](https://iohksummit.io/agenda/))_
+    _([slides](Cardano_Incentives_Miami.pdf))_
