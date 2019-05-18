@@ -42,6 +42,9 @@
   - Mathematiker erklärt Cardano
     _([BTC Echo Podcast, Berlin, December 5th, 2018](https://www.btc-echo.de/podcast-iohk-mathematiker-erklaert-cardano/))_
     _([podcast](Podcast_BTC_Echo_Berlin.mp3))_
+  - Haskell Course Ethiopia - Graduation Speech
+    _(Addis Ababa, March 22nd, 2019)_
+    _([video](Graduation_Ethiopia.mp4))_
   - Education Overview
     _(IOHK Staff Summit, Miami Beach, April 15th, 2019)_
     _([slides](Education_Overview_Miami.pdf))_
