@@ -39,6 +39,9 @@
   - Exploring Incentives in Cardano - Enabling Fair Decentralised Systems
     _([Blockchain for Coders, Crypto Valley, Zug, November 8th, 2018](https://www.meetup.com/de-DE/Blockchain-for-Coders-Crypto-Valley/events/255976875/))_
     _([slides](Blockchain_for_Coders_2018_Zug.pdf))_
+  - Mathematiker erklärt Cardano
+    _([BTC Echo Podcast, Berlin, December 5th, 2018](https://www.btc-echo.de/podcast-iohk-mathematiker-erklaert-cardano/))_
+    _([podcast](Podcast_BTC_Echo_Berlin.mp3))_
   - Education Overview
     _(IOHK Staff Summit, Miami Beach, April 15th, 2019)_
     _([slides](Education_Overview_Miami.pdf))_
