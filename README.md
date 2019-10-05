@@ -61,3 +61,7 @@
     _([Malta AI & Blockchain Summit, Malta, May 23rd, 2019](https://maltablockchainsummit.com/events/ai-bc-summit-spring-edition/conferences/))_
     _([slides](Game_Theory_-_How_do_we_incentivize_good_behavior.pdf))_
     _([video](https://m.facebook.com/story.php?story_fbid=2331677986922047&id=142321109812185))_
+  - The Stereographic Projection
+    (IOHK Education Get-Together, Regensburg, September 16th, 2019)
+    _([slides](stereographic-projection.pdf))_
+    _([video](https://drive.google.com/file/d/1KSmEMp4WPHUOY53ABVcz21559du8A4aO/view?usp=sharing))_
