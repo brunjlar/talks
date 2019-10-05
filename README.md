@@ -54,3 +54,10 @@
   - Cardano Incentives - Enabling a Fair Decentralized System
     _([IOHK Summit, Miami Beach, April 18th, 2019](https://iohksummit.io/agenda/))_
     _([slides](Cardano_Incentives_Miami.pdf))_
+  - Delving into Learning & Technology - The Importance of Educative Initiatives
+    _([Malta AI & Blockchain Summit, Malta, May 23rd, 2019](https://maltablockchainsummit.com/events/ai-bc-summit-spring-edition/conferences/))_
+    _([slides](Delving_into_Learning_and_Technology.pdf))_
+  - Game Theory - How do we incentivize good behavior?
+    _([Malta AI & Blockchain Summit, Malta, May 23rd, 2019](https://maltablockchainsummit.com/events/ai-bc-summit-spring-edition/conferences/))_
+    _([slides](Game_Theory_-_How_do_we_incentivize_good_behavior.pdf))_
+    _([video](https://m.facebook.com/story.php?story_fbid=2331677986922047&id=142321109812185))_
