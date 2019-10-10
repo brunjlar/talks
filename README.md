@@ -66,3 +66,7 @@
     (IOHK Education Get-Together, Regensburg, September 16th, 2019)
     _([slides](stereographic-projection.pdf))_
     _([video](https://drive.google.com/file/d/1KSmEMp4WPHUOY53ABVcz21559du8A4aO/view?usp=sharing))_
+  - This ain't your Daddy's Probability Monad - Modelling Probabilistic Time in Haskell
+    _([Haskell eXchange 2019](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#program))_
+    _([slides](Haskell_eXchange_2019.pdf))_
+    _([video](https://skillsmatter.com/skillscasts/14188-this-ain-t-your-daddy-s-probability-monad-modelling-probabilistic-time-in-haskell))_
