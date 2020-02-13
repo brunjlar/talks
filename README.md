@@ -21,6 +21,7 @@
   - Incentives in Cardano
     _([Blockchain Mania 2018](https://www.meetup.com/Bitcoins-And-Emerging-Tech-That-Changes-The-World/events/245531845))_
     _([slides](Incentives_Hamburg.pdf))_
+    _([video](https://youtu.be/Um9RaJVxl6o))_
   - Incentives in Cardano
     _([Symphony Of Blockchains - London Kick off 2018](https://www.meetup.com/Symphony-of-Blockchains-Visualisation-Meetup/events/250298357))_
     _([slides](Incentives_London.pdf))_
