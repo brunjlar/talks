@@ -73,7 +73,13 @@
     _([video](https://skillsmatter.com/skillscasts/14188-this-ain-t-your-daddy-s-probability-monad-modelling-probabilistic-time-in-haskell))_
   - Smart Contracts
     _(University of Malta, January 9/10, 2020)_
-    _([slides](malta.pdf))_
+
+    1. [IOHK & Cardano](01-iohk-and-cardano.pdf)
+    2. [Smart Contracts & Bitcoin Script](02-bitcoin-script.pdf)
+    3. [Lightning](03-lightning.pdf)
+    4. [Plutus & Marlowe](04-plutus-marlowe.pdf)
+    5. [Marlowe](05-marlowe.pdf)
+
   - Delegation and Stake Pools 2 - Incentives (Simulations) (with _Aikaterini-Panagiota Stouka_)
     _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit), July 3, 2020)_
     _([slides](Delegation_and_stake_pools.pdf))_
