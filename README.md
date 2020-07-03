@@ -71,11 +71,14 @@
     _([Haskell eXchange 2019](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#program))_
     _([slides](Haskell_eXchange_2019.pdf))_
     _([video](https://skillsmatter.com/skillscasts/14188-this-ain-t-your-daddy-s-probability-monad-modelling-probabilistic-time-in-haskell))_
+  - Smart Contracts
+    _(University of Malta, January 9/10, 2020)_
+    _([slides](malta.pdf))_
   - Delegation and Stake Pools 2 - Incentives (Simulations) (with _Aikaterini-Panagiota Stouka_)
-    _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit))_
+    _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit), July 3, 2020)_
     _([slides](Delegation_and_stake_pools.pdf))_
     _([video](https://drive.google.com/file/d/1Ws1knzoGIHlhysUmhPOVs3r_tOEi9a44/view?usp=sharing))_
   - Stake Pools & Decentralisation
-    _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit))_
+    _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit), July 3, 2020)_
     _([slides](Stake_pools_and_decentralisation.pdf))_
     _([video](https://drive.google.com/file/d/1944jxRUg6CWqeb4-pFBwSxCarqe85F5P/view?usp=sharing))_
