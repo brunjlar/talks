@@ -67,6 +67,22 @@
     (IOHK Education Get-Together, Regensburg, September 16th, 2019)
     _([slides](stereographic-projection.pdf))_
     _([video](https://drive.google.com/file/d/1KSmEMp4WPHUOY53ABVcz21559du8A4aO/view?usp=sharing))_
+  - Blockchain Engineering - Blockchains und Kryptowährungen
+    (Ostbayerische Technische Hochschule Regensburg, Septermber 26 - November 23, 2019)
+
+    1. [Blockchain](regensburg/01-blockchain.pdf)
+    2. [Hash-Funktionen](regensburg/02-hashing.pdf)
+    3. [Public Key Kroptografie und Digitale Signaturen](regensburg/03-signatures.pdf)
+    4. [Konsens-Protokolle](regensburg/04-consensus.pdf)
+    5. [Buchhaltungsmodelle für Kryptowährungen](regensburg/05-utxo.pdf)
+    6. [Brieftaschen (Wallets)](regensburg/06-wallet.pdf)
+    7. [Smart Contracts & Bitcoin-Scripts](regensburg/07-bitcoin-script.pdf)
+    8. [Lightning (Blitz)](regensburg/08-lightning.pdf)
+    9. [Ethereum & Solidity](regensburg/09-solidity.pdf)
+    10. [Incentives (Anreize)](regensburg/10-incentives.pdf)
+    11. [Plutus und Marlowe](regensburg/11-plutus-marlowe.pdf)
+    12. [Hackathon](regensburg/hackathon.pdf)
+
   - This ain't your Daddy's Probability Monad - Modelling Probabilistic Time in Haskell
     _([Haskell eXchange 2019](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#program))_
     _([slides](Haskell_eXchange_2019.pdf))_
