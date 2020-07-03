@@ -74,11 +74,11 @@
   - Smart Contracts
     _(University of Malta, January 9/10, 2020)_
 
-    1. [IOHK & Cardano](01-iohk-and-cardano.pdf)
-    2. [Smart Contracts & Bitcoin Script](02-bitcoin-script.pdf)
-    3. [Lightning](03-lightning.pdf)
-    4. [Plutus & Marlowe](04-plutus-marlowe.pdf)
-    5. [Marlowe](05-marlowe.pdf)
+    1. [IOHK & Cardano](malta/01-iohk-and-cardano.pdf)
+    2. [Smart Contracts & Bitcoin Script](malta/02-bitcoin-script.pdf)
+    3. [Lightning](malta/03-lightning.pdf)
+    4. [Plutus & Marlowe](malta/04-plutus-marlowe.pdf)
+    5. [Marlowe](malta/05-marlowe.pdf)
 
   - Delegation and Stake Pools 2 - Incentives (Simulations) (with _Aikaterini-Panagiota Stouka_)
     _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit), July 3, 2020)_
