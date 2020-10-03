@@ -104,3 +104,7 @@
     _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit), July 3, 2020)_
     _([slides](Stake_pools_and_decentralisation.pdf))_
     _([video](https://drive.google.com/file/d/1944jxRUg6CWqeb4-pFBwSxCarqe85F5P/view?usp=sharing))_
+  - This ain't your Daddy's Probability Monad
+    _([MuniHac 2020](https://munihac.de/2020.html), September 11, 2020)_
+    _([slides](MuniHac2020.pdf))_
+    _([video](https://www.youtube.com/watch?v=EVBFoA2DmD4))_
