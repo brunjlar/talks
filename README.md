@@ -12,6 +12,7 @@
   - Neural Nets with Automatic Differentiation
     _([Haskell eXchange 2016](https://skillsmatter.com/conferences/7276-haskell-exchange-2016))_
     _([slides](Haskell_eXchange_2016.pdf))_
+    _([video](https://skillsmatter.com/skillscasts/8720-neural-nets-with-automatic-differentiation))_
   - Protop - Dependent Types through Topoi
     _([Haskell eXchange 2017](https://skillsmatter.com/conferences/8522-haskell-exchange-2017))_
     _([slides](Haskell_eXchange_2017_Protop.pdf))_
