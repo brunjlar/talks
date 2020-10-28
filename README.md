@@ -109,3 +109,7 @@
     _([MuniHac 2020](https://munihac.de/2020.html), September 11, 2020)_
     _([slides](MuniHac2020.pdf))_
     _([video](https://www.youtube.com/watch?v=EVBFoA2DmD4))_
+  - UTxO- vs Account-Based Smart Contract Blockchain Programming Paradigms
+    _([ISoLA 2020](http://www.cs.um.edu.mt/gordon.pace/Workshops/RSC2020/), October 28, 2020)_
+    _([slides](ISoLA2020.pdf))_
+    _([video](https://drive.google.com/file/d/1AMW32lnMsq8HmMiqRk01bFaAwONGJZIp/view?usp=sharing))_
