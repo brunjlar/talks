@@ -91,11 +91,11 @@
   - Smart Contracts
     _(University of Malta, January 9/10, 2020)_
 
-    1. [IOHK & Cardano](malta/01-iohk-and-cardano.pdf)
-    2. [Smart Contracts & Bitcoin Script](malta/02-bitcoin-script.pdf)
-    3. [Lightning](malta/03-lightning.pdf)
-    4. [Plutus & Marlowe](malta/04-plutus-marlowe.pdf)
-    5. [Marlowe](malta/05-marlowe.pdf)
+    1. [IOHK & Cardano](malta2020/01-iohk-and-cardano.pdf)
+    2. [Smart Contracts & Bitcoin Script](malta2020/02-bitcoin-script.pdf)
+    3. [Lightning](malta2020/03-lightning.pdf)
+    4. [Plutus & Marlowe](malta2020/04-plutus-marlowe.pdf)
+    5. [Marlowe](malta2020/05-marlowe.pdf)
 
   - Delegation and Stake Pools 2 - Incentives (Simulations) (with _Aikaterini-Panagiota Stouka_)
     _([Cardano Virtual Summit 2020 - Shelley Edition](https://www.ubivent.com/register/cardanovirtualsummit), July 3, 2020)_
@@ -113,3 +113,15 @@
     _([ISoLA 2020](http://www.cs.um.edu.mt/gordon.pace/Workshops/RSC2020/), October 28, 2020)_
     _([slides](ISoLA2020.pdf))_
     _([video](https://drive.google.com/file/d/1AMW32lnMsq8HmMiqRk01bFaAwONGJZIp/view?usp=sharing))_
+  - Smart Contracts
+    _(University of Malta, January 6/22, 2021)_
+
+    1. [IOHK & Cardano](malta2021/01-iohk-and-cardano.pdf)
+    2. [Smart Contracts & Bitcoin Script](malta2021/02-bitcoin-script.pdf)
+    3. [Lightning](malta2021/03-lightning.pdf)
+    4. [Plutus & Marlowe](malta2021/04-plutus-marlowe.pdf)
+    5. [Marlowe](malta2021/05-marlowe.pdf)
+
+  - CARDANO (ADA) - Was kann die "Blockchain der 3. Generation"? (Bitcoin2Go)
+    _([slides](Bitcoin2Go.pdf))_
+    _([video](https://youtu.be/hM3BeuencIs))_
