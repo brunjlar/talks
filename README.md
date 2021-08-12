@@ -125,3 +125,4 @@
   - CARDANO (ADA) - Was kann die "Blockchain der 3. Generation"? (Bitcoin2Go)
     _([slides](Bitcoin2Go.pdf))_
     _([video](https://youtu.be/hM3BeuencIs))_
+  - Fireside Chat with Dr. Lars Brünjes - Director of Education @IOHK _(EMURGO India, August 31, 2021)_ _([video](https://youtu.be/rJF3y4BqHxU))_
