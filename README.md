@@ -127,3 +127,5 @@
     _([video](https://youtu.be/hM3BeuencIs))_
   - People of IOG: Dr. Lars Brunjes _(March 31, 2021)_ _([video](https://youtu.be/06VoXkEI4xU))_
   - Fireside Chat with Dr. Lars Brünjes - Director of Education @IOHK _(EMURGO India, August 31, 2021)_ _([video](https://youtu.be/rJF3y4BqHxU))_
+  - Cardano: Was die drittgrößte Blockchain besser als Bitcoin und Ethereum machen will (Zebras & Unicorns, September 28, 2021)
+    _([podcast](https://open.spotify.com/episode/3lgxStWz9r0BloCmFzLIVd))_
