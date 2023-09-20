@@ -130,7 +130,7 @@
   - The Importance of Education for Blockchain Adoption _(Cardano Summit, September 26, 2021)_ _([video](https://summit.cardano.org/sessions/the-importance-of-education-for-blockchain-adoption))_
   - Cardano: Was die drittgrößte Blockchain besser als Bitcoin und Ethereum machen will (Zebras & Unicorns, September 28, 2021)
     _([podcast](https://open.spotify.com/episode/3lgxStWz9r0BloCmFzLIVd))_
-
   - Building UTxO-Optimizied Dapps (with _Marvin Bertin_)
     _([Cardano Summit 2022](https://summit.cardano.org/), November 20, 2022)_
     _([slides](Building_UTxO-Optimized_Dapps.pdf))_
+  - Cardano & Cardano Education (Crypto Hub Malta, September 20, 2023) _([video](https://drive.google.com/file/d/1GOZ6pP3KCPiWpQx_mHKI7XcntOqf9PTe/view?usp=drive_link))_ _([slides (pdf)](malta2023/Cardano%20&%20Cardano%20Education.pdf))_ _([slides (pptx)](malta2023/Cardano%20&%20Cardano%20Education.pptx))_
