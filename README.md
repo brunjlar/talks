@@ -135,3 +135,4 @@
     _([slides](Building_UTxO-Optimized_Dapps.pdf))_
   - Cardano & Cardano Education (Crypto Hub Malta, September 20, 2023) _([video](https://drive.google.com/file/d/1GOZ6pP3KCPiWpQx_mHKI7XcntOqf9PTe/view?usp=drive_link))_ _([slides (pdf)](malta2023/Cardano%20&%20Cardano%20Education.pdf))_ _([slides (pptx)](malta2023/Cardano%20&%20Cardano%20Education.pptx))_
   - Demystifying Crypto Derivatives (Cardano Summit Dubai, November 3, 2023) _([slides (pdf)](Demystifying_Crypto_Derivatives.pdf))_ _([slides (pptx)](Demystifying_Crypto_Derivatives.pptx))_
+  - Cardano Incentives - Enabling a Fair Decentralized System _(Cardano Day Laramie, September 21, 2024)_ _([slides (pdf)](Cardano_Day_Laramie.pdf))_ _([slides (pptx)](Cardano_Day_Laramie.pptx))_
